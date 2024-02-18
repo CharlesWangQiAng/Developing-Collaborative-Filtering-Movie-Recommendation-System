@@ -1,1 +1,7 @@
-# Developing-Collaborative-Filtering-Movie-Recommendation-System
+# Filtering-Movie-Recommendation-System
+# Overview
+In this project, the MovieLens dataset was analyzed with the goal of developing a deep learning-based embedding framework capable of predicting the ratings users would give to movies, while also providing insights into movie valuation. The deep learning model was designed with three hidden layers and evaluated using a validation dataset to ensure its effectiveness. To fine-tune the model and prevent overfitting, a rigorous optimization process was undertaken focusing on hyperparameters such as embedding dimension, number of iterations, learning rate, and L2 regularization. The model’s performance was assessed using Root Mean Square Error (RMSE) and Mean Absolute Error (MAE), achieving scores of 0.850 and 0.666 respectively on test data. Furthermore, the project involved predicting personal movie ratings as if from a new user, adding a practical dimension to the model’s application. Additionally, movie valuation was analyzed using the matrix form of Zipf’s law to identify top-valued movies. Visualization of movie connections was accomplished through Principal Component Analysis (PCA), providing a comprehensive overview of the relationships between different films. This project not only showcases the application of deep learning in the realm of recommendation systems but also offers valuable insights into the factors that contribute to movie popularity and valuation.
+# Data Science Techniques Used
+Pandas, Numpy, PyTorch, TensorFlow, Word2Vec, Item2Vec, Sklearn, PCA.
+# Tools Used
+Python, Jupyter Notebook
