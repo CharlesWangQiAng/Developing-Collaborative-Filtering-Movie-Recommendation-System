@@ -4,4 +4,4 @@ In this project, the MovieLens dataset was analyzed with the goal of developing 
 # Data Science Techniques Used
 Pandas, Numpy, PyTorch, TensorFlow, Word2Vec, Item2Vec, Sklearn, PCA.
 # Tools Used
-Python, Jupyter Notebook
+Python
